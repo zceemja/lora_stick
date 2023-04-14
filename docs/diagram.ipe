@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70218" creator="Ipe 7.2.26">
-<info created="D:20230414173211" modified="D:20230414173701"/>
+<info created="D:20230414173211" modified="D:20230414182523"/>
 <preamble>\usepackage{graphicx}</preamble>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
@@ -314,181 +314,188 @@ h
 <page>
 <layer name="alpha"/>
 <view layers="alpha" active="alpha"/>
-<path layer="alpha" matrix="0.8 0 0 0.285714 17.6 308.571" stroke="black" fill="lightgray">
+<path layer="alpha" matrix="1.09524 0 0 1.2 7.04762 -96" fill="lightgray">
+52 480 m
+52 640 l
+388 640 l
+388 480 l
+h
+</path>
+<path matrix="0.87619 0 0 0.342857 26.3238 274.285" stroke="black" fill="0.333 1 0.498">
 128 768 m
 128 656 l
 208 656 l
 208 768 l
 h
 </path>
-<text matrix="1 0 0 1 8 0" transformations="translations" pos="144 512" stroke="black" type="label" width="39.02" height="6.808" depth="0" halign="center" valign="baseline">ESP8266</text>
-<path matrix="0.8 0 0 0.285714 17.6 412.571" stroke="black" fill="lightgray">
+<text matrix="1.09524 0 0 1.2 15.8095 -96" transformations="translations" pos="144 512" stroke="black" type="label" width="39.02" height="6.808" depth="0" halign="center" valign="baseline">ESP8266</text>
+<path matrix="0.87619 0 0 0.342857 26.3238 399.085" stroke="black" fill="0.333 1 0.498">
 128 768 m
 128 656 l
 208 656 l
 208 768 l
 h
 </path>
-<text matrix="1 0 0 1 8 104" transformations="translations" pos="144 512" stroke="black" type="label" width="58.946" height="6.808" depth="0" halign="center" valign="baseline">E32-TTL-100</text>
-<text matrix="1 0 0 1 36 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="14.114" depth="0" halign="center" valign="baseline">\rotatebox{90}{M0}</text>
-<path stroke="black" fill="lightgray">
+<text matrix="1.09524 0 0 1.2 15.8095 28.8" transformations="translations" pos="144 512" stroke="black" type="label" width="58.946" height="6.808" depth="0" halign="center" valign="baseline">E32-TTL-100</text>
+<text matrix="1.09524 0 0 1.2 46.4762 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="13.054" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{M0}</text>
+<path matrix="1.09524 0 0 1.2 7.04762 -96" stroke="black" fill="0.333 1 0.498">
 128 600 m
 128 528 l
 128 528 l
 </path>
-<path stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 7.04762 -96" stroke="black" fill="0.333 1 0.498">
 136 600 m
 136 528 l
 136 528 l
 </path>
-<path stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 7.04762 -96" stroke="black" fill="0.333 1 0.498">
 144 600 m
 144 528 l
 144 528 l
 </path>
-<path stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 7.04762 -96" stroke="black" fill="0.333 1 0.498">
 152 600 m
 152 528 l
 152 528 l
 </path>
-<path stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 7.04762 -96" stroke="black" fill="0.333 1 0.498">
 160 600 m
 160 528 l
 160 528 l
 </path>
-<path stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 7.04762 -96" stroke="black" fill="0.333 1 0.498">
 168 600 m
 168 528 l
 168 528 l
 </path>
-<path stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 7.04762 -96" stroke="black" fill="0.333 1 0.498">
 176 600 m
 176 528 l
 176 528 l
 </path>
-<text matrix="1 0 0 1 44 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="14.114" depth="0" halign="center" valign="baseline">\rotatebox{90}{M1}</text>
-<text matrix="1 0 0 1 52 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="22.416" depth="0" halign="center" valign="baseline">\rotatebox{90}{RXD}</text>
-<text matrix="1 0 0 1 60 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="22.278" depth="0" halign="center" valign="baseline">\rotatebox{90}{TXD}</text>
-<text matrix="1 0 0 1 68 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="22.139" depth="0" halign="center" valign="baseline">\rotatebox{90}{AUX}</text>
-<text matrix="1 0 0 1 76 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="21.586" depth="0" halign="center" valign="baseline">\rotatebox{90}{VCC}</text>
-<text matrix="1 0 0 1 84 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="22.9" depth="0" halign="center" valign="baseline">\rotatebox{90}{GND}</text>
-<text matrix="1 0 0 1 84 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="22.9" depth="0" halign="center" valign="baseline">\rotatebox{90}{GND}</text>
-<text matrix="1 0 0 1 76 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="17.435" depth="0" halign="center" valign="baseline">\rotatebox{90}{3V3}</text>
-<text matrix="1 0 0 1 68 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.42" height="9.963" depth="0" halign="center" valign="baseline">\rotatebox{90}{16}</text>
-<text matrix="1 0 0 1 60 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.42" height="9.963" depth="0" halign="center" valign="baseline">\rotatebox{90}{12}</text>
-<text matrix="1 0 0 1 52 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.42" height="9.963" depth="0" halign="center" valign="baseline">\rotatebox{90}{14}</text>
-<text matrix="1 0 0 1 44 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.42" height="4.981" depth="0" halign="center" valign="baseline">\rotatebox{90}{2}</text>
-<text matrix="1 0 0 1 36 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.42" height="9.963" depth="0" halign="center" valign="baseline">\rotatebox{90}{13}</text>
-<path matrix="1 0 0 1 -4 0" stroke="black">
+<text matrix="1.09524 0 0 1.2 55.2381 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="13.054" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{M1}</text>
+<text matrix="1.09524 0 0 1.2 64 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="20.732" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{RXD}</text>
+<text matrix="1.09524 0 0 1.2 72.7619 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="20.605" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{TXD}</text>
+<text matrix="1.09524 0 0 1.2 81.5238 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="20.474" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{AUX}</text>
+<text matrix="1.09524 0 0 1.2 90.2857 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="19.965" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{VCC}</text>
+<text matrix="1.09524 0 0 1.2 99.0476 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="21.18" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{GND}</text>
+<text matrix="1.09524 0 0 1.2 99.0476 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="21.18" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{GND}</text>
+<text matrix="1.09524 0 0 1.2 90.2857 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="16.126" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{3V3}</text>
+<text matrix="1.09524 0 0 1.2 81.5238 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="5.778" height="9.215" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{16}</text>
+<text matrix="1.09524 0 0 1.2 72.7619 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="5.778" height="9.215" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{12}</text>
+<text matrix="1.09524 0 0 1.2 64 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="5.778" height="9.215" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{14}</text>
+<text matrix="1.09524 0 0 1.2 55.2381 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="5.778" height="4.608" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{2}</text>
+<text matrix="1.09524 0 0 1.2 46.4762 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="5.778" height="9.215" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{13}</text>
+<path matrix="1.09524 0 0 1.2 2.66667 -96" stroke="black">
 192 608 m
 10 0 0 10 186 616 192 624 a
 </path>
-<path matrix="1 0 0 1 -4 0" stroke="black">
+<path matrix="1.09524 0 0 1.2 2.66667 -96" stroke="black">
 196 604 m
 20 0 0 20 180 616 196 628 a
 </path>
-<path matrix="1 0 0 1 -4 0" stroke="black">
+<path matrix="1.09524 0 0 1.2 2.66667 -96" stroke="black">
 200 600 m
 34 0 0 34 170 616 200 632 a
 </path>
-<path matrix="0.8 0 0 0.285714 153.6 308.571" stroke="black" fill="lightgray">
+<path matrix="0.87619 0 0 0.342857 175.276 274.285" stroke="black" fill="0.333 1 0.498">
 128 768 m
 128 656 l
 208 656 l
 208 768 l
 h
 </path>
-<text matrix="1 0 0 1 144 0" transformations="translations" pos="144 512" stroke="black" type="label" width="39.02" height="6.808" depth="0" halign="center" valign="baseline">ESP8266</text>
-<path matrix="0.8 0 0 0.285714 153.6 412.571" stroke="black" fill="lightgray">
+<text matrix="1.09524 0 0 1.2 164.762 -96" transformations="translations" pos="144 512" stroke="black" type="label" width="39.02" height="6.808" depth="0" halign="center" valign="baseline">ESP8266</text>
+<path matrix="0.87619 0 0 0.342857 175.276 399.085" stroke="black" fill="0.333 1 0.498">
 128 768 m
 128 656 l
 208 656 l
 208 768 l
 h
 </path>
-<text matrix="1 0 0 1 144 104" transformations="translations" pos="144 512" stroke="black" type="label" width="58.946" height="6.808" depth="0" halign="center" valign="baseline">E32-TTL-100</text>
-<text matrix="1 0 0 1 172 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="14.114" depth="0" halign="center" valign="baseline">\rotatebox{90}{M0}</text>
-<path matrix="1 0 0 1 136 0" stroke="black" fill="lightgray">
+<text matrix="1.09524 0 0 1.2 164.762 28.8" transformations="translations" pos="144 512" stroke="black" type="label" width="58.946" height="6.808" depth="0" halign="center" valign="baseline">E32-TTL-100</text>
+<text matrix="1.09524 0 0 1.2 195.429 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="13.054" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{M0}</text>
+<path matrix="1.09524 0 0 1.2 156 -96" stroke="black" fill="0.333 1 0.498">
 128 600 m
 128 528 l
 128 528 l
 </path>
-<path matrix="1 0 0 1 136 0" stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 156 -96" stroke="black" fill="0.333 1 0.498">
 136 600 m
 136 528 l
 136 528 l
 </path>
-<path matrix="1 0 0 1 136 0" stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 156 -96" stroke="black" fill="0.333 1 0.498">
 144 600 m
 144 528 l
 144 528 l
 </path>
-<path matrix="1 0 0 1 136 0" stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 156 -96" stroke="black" fill="0.333 1 0.498">
 152 600 m
 152 528 l
 152 528 l
 </path>
-<path matrix="1 0 0 1 136 0" stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 156 -96" stroke="black" fill="0.333 1 0.498">
 160 600 m
 160 528 l
 160 528 l
 </path>
-<path matrix="1 0 0 1 136 0" stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 156 -96" stroke="black" fill="0.333 1 0.498">
 168 600 m
 168 528 l
 168 528 l
 </path>
-<path matrix="1 0 0 1 136 0" stroke="black" fill="lightgray">
+<path matrix="1.09524 0 0 1.2 156 -96" stroke="black" fill="0.333 1 0.498">
 176 600 m
 176 528 l
 176 528 l
 </path>
-<text matrix="1 0 0 1 180 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="14.114" depth="0" halign="center" valign="baseline">\rotatebox{90}{M1}</text>
-<text matrix="1 0 0 1 188 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="22.416" depth="0" halign="center" valign="baseline">\rotatebox{90}{RXD}</text>
-<text matrix="1 0 0 1 196 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="22.278" depth="0" halign="center" valign="baseline">\rotatebox{90}{TXD}</text>
-<text matrix="1 0 0 1 204 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="22.139" depth="0" halign="center" valign="baseline">\rotatebox{90}{AUX}</text>
-<text matrix="1 0 0 1 212 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="21.586" depth="0" halign="center" valign="baseline">\rotatebox{90}{VCC}</text>
-<text matrix="1 0 0 1 220 32" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="22.9" depth="0" halign="center" valign="baseline">\rotatebox{90}{GND}</text>
-<text matrix="1 0 0 1 220 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="22.9" depth="0" halign="center" valign="baseline">\rotatebox{90}{GND}</text>
-<text matrix="1 0 0 1 212 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.808" height="17.435" depth="0" halign="center" valign="baseline">\rotatebox{90}{3V3}</text>
-<text matrix="1 0 0 1 204 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.42" height="9.963" depth="0" halign="center" valign="baseline">\rotatebox{90}{16}</text>
-<text matrix="1 0 0 1 196 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.42" height="9.963" depth="0" halign="center" valign="baseline">\rotatebox{90}{12}</text>
-<text matrix="1 0 0 1 188 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.42" height="9.963" depth="0" halign="center" valign="baseline">\rotatebox{90}{14}</text>
-<text matrix="1 0 0 1 180 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.42" height="4.981" depth="0" halign="center" valign="baseline">\rotatebox{90}{2}</text>
-<text matrix="1 0 0 1 172 -12" transformations="translations" pos="88 544" stroke="black" type="label" width="6.42" height="9.963" depth="0" halign="center" valign="baseline">\rotatebox{90}{13}</text>
-<text matrix="1 0 0 1 8 0" transformations="translations" pos="212 620" stroke="black" type="label" width="28.781" height="6.808" depth="0" halign="center" valign="center">LORA</text>
-<path matrix="1 0 0 1 12 0" stroke="black">
+<text matrix="1.09524 0 0 1.2 204.19 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="13.054" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{M1}</text>
+<text matrix="1.09524 0 0 1.2 212.952 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="20.732" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{RXD}</text>
+<text matrix="1.09524 0 0 1.2 221.714 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="20.605" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{TXD}</text>
+<text matrix="1.09524 0 0 1.2 230.476 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="20.474" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{AUX}</text>
+<text matrix="1.09524 0 0 1.2 239.238 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="19.965" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{VCC}</text>
+<text matrix="1.09524 0 0 1.2 248 -57.6" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="21.18" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{GND}</text>
+<text matrix="1.09524 0 0 1.2 248 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="21.18" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{GND}</text>
+<text matrix="1.09524 0 0 1.2 239.238 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="6.127" height="16.126" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{3V3}</text>
+<text matrix="1.09524 0 0 1.2 230.476 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="5.778" height="9.215" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{16}</text>
+<text matrix="1.09524 0 0 1.2 221.714 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="5.778" height="9.215" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{12}</text>
+<text matrix="1.09524 0 0 1.2 212.952 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="5.778" height="9.215" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{14}</text>
+<text matrix="1.09524 0 0 1.2 204.19 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="5.778" height="4.608" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{2}</text>
+<text matrix="1.09524 0 0 1.2 195.429 -110.4" transformations="translations" pos="88 544" stroke="black" type="label" width="5.778" height="9.215" depth="0" halign="center" valign="baseline" size="small">\rotatebox{90}{13}</text>
+<text matrix="1.09524 0 0 1.2 15.8095 -96" transformations="translations" pos="212 620" stroke="black" type="label" width="28.781" height="6.808" depth="0" halign="center" valign="center">LORA</text>
+<path matrix="1.09524 0 0 1.2 20.1905 -96" stroke="black">
 240 608 m
 10 0 0 -10 246 616 240 624 a
 </path>
-<path matrix="1 0 0 1 12 0" stroke="black">
+<path matrix="1.09524 0 0 1.2 20.1905 -96" stroke="black">
 236 604 m
 20 0 0 -20 252 616 236 628 a
 </path>
-<path matrix="1 0 0 1 12 0" stroke="black">
+<path matrix="1.09524 0 0 1.2 20.1905 -96" stroke="black">
 232 600 m
 34 0 0 -34 262 616 232 632 a
 </path>
-<text matrix="1 0 0 1 8 -12" transformations="translations" pos="212 620" stroke="black" type="label" width="33.275" height="6.127" depth="0" halign="center" valign="center" size="small">433MHz</text>
-<path matrix="1 0 0 1 -4 0" stroke="black" fill="lightgray">
+<text matrix="1.09524 0 0 1.2 15.8095 -110.4" transformations="translations" pos="212 620" stroke="black" type="label" width="33.275" height="6.127" depth="0" halign="center" valign="center" size="small">433MHz</text>
+<path matrix="1.09524 0 0 1.2 2.66667 -96" stroke="black" fill="0.333 1 0.498">
 92 536 m
 92 488 l
 60 488 l
 60 536 l
 h
 </path>
-<text matrix="1 0 0 1 -72 4" transformations="translations" pos="144 512" stroke="black" type="label" width="27.259" height="6.918" depth="0" halign="center" valign="baseline">Phone</text>
-<text matrix="1 0 0 1 -108 -116" transformations="translations" pos="212 620" stroke="black" type="label" width="22.278" height="6.808" depth="0" halign="center" valign="center">WiFi</text>
-<path matrix="1 0 0 1 292 0" stroke="black" fill="lightgray">
+<text matrix="1.09524 0 0 1.2 -71.8095 -91.2" transformations="translations" pos="144 512" stroke="black" type="label" width="27.259" height="6.918" depth="0" halign="center" valign="baseline">Phone</text>
+<text matrix="1.09524 0 0 1.2 -111.238 -235.2" transformations="translations" pos="212 620" stroke="black" type="label" width="22.278" height="6.808" depth="0" halign="center" valign="center">WiFi</text>
+<path matrix="1.09524 0 0 1.2 326.857 -96" stroke="black" fill="0.333 1 0.498">
 92 536 m
 92 488 l
 60 488 l
 60 536 l
 h
 </path>
-<text matrix="1 0 0 1 224 4" transformations="translations" pos="144 512" stroke="black" type="label" width="27.259" height="6.918" depth="0" halign="center" valign="baseline">Phone</text>
-<text matrix="1 0 0 1 124 -116" transformations="translations" pos="212 620" stroke="black" type="label" width="22.278" height="6.808" depth="0" halign="center" valign="center">WiFi</text>
-<path matrix="1.14286 0 0 1 -17.1429 0" stroke="black">
+<text matrix="1.09524 0 0 1.2 252.381 -91.2" transformations="translations" pos="144 512" stroke="black" type="label" width="27.259" height="6.918" depth="0" halign="center" valign="baseline">Phone</text>
+<text matrix="1.09524 0 0 1.2 142.857 -235.2" transformations="translations" pos="212 620" stroke="black" type="label" width="22.278" height="6.808" depth="0" halign="center" valign="center">WiFi</text>
+<path matrix="1.2517 0 0 1.2 -11.7279 -96" stroke="black">
 92 512 m
 104 512 l
 108 508 l
@@ -497,7 +504,7 @@ h
 120 512 l
 120 512 l
 </path>
-<path matrix="1.14286 0 0 1 214.857 0" stroke="black">
+<path matrix="1.2517 0 0 1.2 242.367 -96" stroke="black">
 92 512 m
 104 512 l
 108 508 l
@@ -506,7 +513,7 @@ h
 120 512 l
 120 512 l
 </path>
-<text matrix="1 0 0 1 8 -12" transformations="translations" pos="144 512" stroke="black" type="label" width="32.379" height="6.808" depth="0" halign="center" valign="baseline">ESP-07</text>
-<text matrix="1 0 0 1 144 -12" transformations="translations" pos="144 512" stroke="black" type="label" width="32.379" height="6.808" depth="0" halign="center" valign="baseline">ESP-07</text>
+<text matrix="1.09524 0 0 1.2 15.8095 -110.4" transformations="translations" pos="144 512" stroke="black" type="label" width="32.379" height="6.808" depth="0" halign="center" valign="baseline">ESP-07</text>
+<text matrix="1.09524 0 0 1.2 164.762 -110.4" transformations="translations" pos="144 512" stroke="black" type="label" width="32.379" height="6.808" depth="0" halign="center" valign="baseline">ESP-07</text>
 </page>
 </ipe>

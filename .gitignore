@@ -6,3 +6,4 @@
 .vscode/ipch
 src/page.h
 web/*.gz
+docs/*.autosave.ipe
